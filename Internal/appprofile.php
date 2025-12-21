@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-12-21T09:17:34.139Z
+// # Build 2025-12-21T18:26:24.330Z
 
 declare(strict_types=1);
 
@@ -2932,6 +2932,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,springernature.com,DIRECT',
         'DOMAIN,setmeup.arubanetworks.com,DIRECT',
         'DOMAIN,instant.arubanetworks.com,DIRECT',
+        'DOMAIN-SUFFIX,webofscience.com,DIRECT',
         'DOMAIN-SUFFIX,routerlogin.com,DIRECT',
         'DOMAIN-SUFFIX,asusrouter.com,DIRECT',
         'DOMAIN-SUFFIX,nanyangpt.com,DIRECT',
@@ -4360,7 +4361,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.227.80.0/22,Domestic',
         'IP-CIDR,103.227.120.0/22,Domestic',
         'IP-CIDR,103.227.136.0/22,Domestic',
-        'IP-CIDR,103.227.228.0/22,Domestic',
         'IP-CIDR,103.228.12.0/22,Domestic',
         'IP-CIDR,103.228.136.0/22,Domestic',
         'IP-CIDR,103.228.160.0/22,Domestic',
