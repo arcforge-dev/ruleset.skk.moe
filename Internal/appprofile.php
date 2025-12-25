@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-12-25T05:21:31.976Z
+// # Build 2025-12-25T17:10:38.093Z
 
 declare(strict_types=1);
 
@@ -2149,6 +2149,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,scp-wiki.com,Global',
         'DOMAIN-SUFFIX,saucenao.com,Global',
         'DOMAIN-SUFFIX,roboflow.com,Global',
+        'DOMAIN-SUFFIX,regex101.com,Global',
         'DOMAIN-SUFFIX,recombee.com,Global',
         'DOMAIN-SUFFIX,quillbot.com,Global',
         'DOMAIN-SUFFIX,porntube.com,Global',
@@ -2932,6 +2933,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,springernature.com,DIRECT',
         'DOMAIN,setmeup.arubanetworks.com,DIRECT',
         'DOMAIN,instant.arubanetworks.com,DIRECT',
+        'DOMAIN-SUFFIX,webofscience.com,DIRECT',
         'DOMAIN-SUFFIX,routerlogin.com,DIRECT',
         'DOMAIN-SUFFIX,asusrouter.com,DIRECT',
         'DOMAIN-SUFFIX,nanyangpt.com,DIRECT',
